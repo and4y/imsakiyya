@@ -2565,7 +2565,7 @@
 
 	#header {
 		text-align: center;
-		padding: 2em 0 4em 0;
+		padding: 1em 0 4em 0;
 	}
 
 		#header h1 {
@@ -2584,7 +2584,7 @@
 			#header .avatar img {
 				border-radius: 100%;
 				display: block;
-				width: 4em;
+				width: 2em;
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -2599,13 +2599,13 @@
 
 	#footer {
 		text-align: center;
-		padding: 4em 0 4em 0;
+		padding: 3em 0 4em 0;
 	}
 
 		#footer:before {
 			content: '';
 			border-top: solid 1px rgba(255, 255, 255, 0.25);
-			width: 5em;
+			width: 3em;
 			display: block;
 			margin: 0 auto 3em auto;
 		}
